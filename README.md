@@ -8,5 +8,5 @@
 - Vite
 
 ## Links
-- Live Site URL: [Entertainment web app]()🌐
+- Live Site URL: [Entertainment web app](https://entertainment-ferlaxi.netlify.app/)🌐
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)

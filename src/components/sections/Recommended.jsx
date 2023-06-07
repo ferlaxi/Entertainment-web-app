@@ -12,7 +12,7 @@ const Recommended = ({ name, year, category, rating, photo, bookmark, onMarcar, 
                     </div>
                 )
             }
-            <div className="absolute hidden group-hover:flex items-center bg-white bg-opacity-50 px-2 py-[5px] rounded-3xl ml-24 mt-20">
+            <div className="absolute hidden group-hover:flex items-center bg-white bg-opacity-50 px-2 py-[5px] rounded-3xl xl:ml-24 xl:mt-20 md:ml-16 md:mt-14 ml-10 mt-11">
                 <svg className="opacity-100 z-10" width="30" height="30" xmlns="http://www.w3.org/2000/svg"><path d="M15 0C6.713 0 0 6.713 0 15c0 8.288 6.713 15 15 15 8.288 0 15-6.712 15-15 0-8.287-6.712-15-15-15Zm-3 21V8l9 6.5-9 6.5Z" fill="#FFF" /></svg>
                 <div className="ml-3 pr-2 relative text-white group-hover:opacity-100 z-10">Play</div>
             </div>
